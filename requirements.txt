@@ -1,0 +1,4 @@
+greenlet==1.1.2
+six==1.16.0
+SQLAlchemy==1.4.27
+SQLAlchemy-Utils==0.37.9
